@@ -1,0 +1,72 @@
+{
+  "white": {
+    "$value": "#ffffff",
+    "$type": "color"
+  },
+  "charcoal-950": {
+    "$value": "#211a13",
+    "$type": "color"
+  },
+  "sand": {
+    "100": {
+      "$value": "#faf7f2",
+      "$type": "color"
+    },
+    "200": {
+      "$value": "#f1e9dc",
+      "$type": "color"
+    },
+    "300": {
+      "$value": "#e4d8c4",
+      "$type": "color"
+    },
+    "400": {
+      "$value": "#c9b79c",
+      "$type": "color"
+    },
+    "500": {
+      "$value": "#a38f72",
+      "$type": "color"
+    }
+  },
+  "espresso": {
+    "800": {
+      "$value": "#4a3a2c",
+      "$type": "color"
+    },
+    "900": {
+      "$value": "#2e2318",
+      "$type": "color"
+    },
+    "950": {
+      "$value": "#211a12",
+      "$type": "color"
+    }
+  },
+  "gray-warm": {
+    "500": {
+      "$value": "#8b8072",
+      "$type": "color"
+    },
+    "700": {
+      "$value": "#665c4f",
+      "$type": "color"
+    }
+  },
+  "moss": {
+    "600": {
+      "$value": "#7c8a6d",
+      "$type": "color"
+    },
+    "700": {
+      "$value": "#5f6e52",
+      "$type": "color"
+    }
+  },
+  "clay": {
+    "500": {
+      "$value": "#b8794f",
+      "$type": "color"
+    }
+  }
+}
