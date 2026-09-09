@@ -1,0 +1,25 @@
+{
+  "name": "moment-token",
+  "version": "0.0.1",
+  "description": "moment-token",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build-tokens.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simseonbeom/moment-token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/simseonbeom/moment-token/issues"
+  },
+  "homepage": "https://github.com/simseonbeom/moment-token#readme",
+  "devDependencies": {
+    "style-dictionary": "5.5.3"
+  }
+}
