@@ -1,24 +1,42 @@
 {
-  "name": "moment-token",
+  "name": "@youjeong/moment-token",
   "version": "0.0.1",
-  "description": "moment-token",
-  "main": "index.js",
+  "description": "moment_token design tokens (CSS variables, SCSS variables, Tailwind v4 theme)",
+  "files": [
+    "dist",
+    "tokens",
+    "build-tokens.mjs"
+  ],
+  "exports": {
+    "./css": "./dist/css/variables.css",
+    "./scss": "./dist/scss/_variables.scss",
+    "./tailwind": "./dist/tailwind/theme.css",
+    "./tokens/*": "./tokens/*"
+  },
   "scripts": {
     "build": "node build-tokens.mjs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublishOnly": "npm run build"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simseonbeom/moment-token.git"
+    "url": "git+https://github.com/taenoll/moment-token.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "design-tokens",
+    "style-dictionary",
+    "css-variables",
+    "tailwindcss"
+  ],
+  "author": "Youjeong",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/simseonbeom/moment-token/issues"
+    "url": "https://github.com/taenoll/moment-token/issues"
   },
-  "homepage": "https://github.com/simseonbeom/moment-token#readme",
+  "homepage": "https://github.com/taenoll/moment-token.git",
   "devDependencies": {
     "style-dictionary": "5.5.3"
   }
