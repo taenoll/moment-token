@@ -1,0 +1,110 @@
+{
+  "space": {
+    "4": {
+      "$value": 4,
+      "$type": "number"
+    },
+    "8": {
+      "$value": 8,
+      "$type": "number"
+    },
+    "10": {
+      "$value": 10,
+      "$type": "number"
+    },
+    "12": {
+      "$value": 12,
+      "$type": "number"
+    },
+    "16": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "20": {
+      "$value": 20,
+      "$type": "number"
+    },
+    "24": {
+      "$value": 24,
+      "$type": "number"
+    },
+    "32": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "40": {
+      "$value": 40,
+      "$type": "number"
+    },
+    "48": {
+      "$value": 48,
+      "$type": "number"
+    },
+    "60": {
+      "$value": 60,
+      "$type": "number"
+    },
+    "64": {
+      "$value": 64,
+      "$type": "number"
+    },
+    "80": {
+      "$value": 80,
+      "$type": "number"
+    },
+    "96": {
+      "$value": 96,
+      "$type": "number"
+    },
+    "128": {
+      "$value": 128,
+      "$type": "number"
+    }
+  },
+  "semantic": {
+    "2xs": {
+      "$value": "{space.4}",
+      "$type": "number"
+    },
+    "xs": {
+      "$value": "{space.8}",
+      "$type": "number"
+    },
+    "sm": {
+      "$value": "{space.12}",
+      "$type": "number"
+    },
+    "md": {
+      "$value": "{space.16}",
+      "$type": "number"
+    },
+    "lg": {
+      "$value": "{space.24}",
+      "$type": "number"
+    },
+    "xl": {
+      "$value": "{space.32}",
+      "$type": "number"
+    },
+    "2xl": {
+      "$value": "{space.48}",
+      "$type": "number"
+    },
+    "3xl": {
+      "$value": "{space.64}",
+      "$type": "number"
+    },
+    "4xl": {
+      "$value": "{space.80}",
+      "$type": "number"
+    },
+    "5xl": {
+      "$value": "{space.96}",
+      "$type": "number"
+    },
+    "6xl": {
+      "$value": "{space.128}",
+      "$type": "number"
+    }
+  }
+}
