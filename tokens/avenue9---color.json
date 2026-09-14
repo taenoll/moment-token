@@ -1,0 +1,64 @@
+{
+  "text": {
+    "display-muted": {
+      "$value": "#7d7771",
+      "$type": "color"
+    },
+    "primary": {
+      "$value": "#000000",
+      "$type": "color"
+    },
+    "inverse": {
+      "$value": "#fcfbfc",
+      "$type": "color"
+    }
+  },
+  "background": {
+    "page": {
+      "$value": "#f1efeb",
+      "$type": "color"
+    },
+    "footer": {
+      "$value": "#f3ece3",
+      "$type": "color"
+    },
+    "header": {
+      "$value": "#f3ece3",
+      "$type": "color"
+    }
+  },
+  "surface": {
+    "product": {
+      "$value": "#d9d9d9",
+      "$type": "color"
+    }
+  },
+  "brand": {
+    "espresso": {
+      "$value": "#160a03",
+      "$type": "color"
+    },
+    "deep-brown": {
+      "$value": "#3f2e28",
+      "$type": "color"
+    },
+    "monday": {
+      "$value": "#cda6a0",
+      "$type": "color"
+    },
+    "friday": {
+      "$value": "#539baa",
+      "$type": "color"
+    }
+  },
+  "control": {
+    "dark": {
+      "$value": "#160a03cc",
+      "$type": "color"
+    },
+    "light": {
+      "$value": "#ffffffcc",
+      "$type": "color"
+    }
+  }
+}
