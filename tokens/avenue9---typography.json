@@ -1,0 +1,134 @@
+{
+  "font-size": {
+    "11": {
+      "$value": 11,
+      "$type": "number"
+    },
+    "12": {
+      "$value": 12,
+      "$type": "number"
+    },
+    "13": {
+      "$value": 13,
+      "$type": "number"
+    },
+    "14": {
+      "$value": 14,
+      "$type": "number"
+    },
+    "15": {
+      "$value": 15,
+      "$type": "number"
+    },
+    "16": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "18": {
+      "$value": 18,
+      "$type": "number"
+    },
+    "20": {
+      "$value": 20,
+      "$type": "number"
+    },
+    "24": {
+      "$value": 24,
+      "$type": "number"
+    },
+    "28": {
+      "$value": 28,
+      "$type": "number"
+    },
+    "32": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "36": {
+      "$value": 36,
+      "$type": "number"
+    },
+    "44": {
+      "$value": 44,
+      "$type": "number"
+    },
+    "46": {
+      "$value": 46,
+      "$type": "number"
+    },
+    "48": {
+      "$value": 48,
+      "$type": "number"
+    },
+    "56": {
+      "$value": 56,
+      "$type": "number"
+    },
+    "85": {
+      "$value": 85,
+      "$type": "number"
+    },
+    "96": {
+      "$value": 96,
+      "$type": "number"
+    },
+    "128": {
+      "$value": 128,
+      "$type": "number"
+    }
+  },
+  "semantic": {
+    "caption": {
+      "$value": "{font-size.13}",
+      "$type": "number"
+    },
+    "body-sm": {
+      "$value": "{font-size.15}",
+      "$type": "number"
+    },
+    "body": {
+      "$value": "{font-size.16}",
+      "$type": "number"
+    },
+    "body-lg": {
+      "$value": "{font-size.18}",
+      "$type": "number"
+    },
+    "label": {
+      "$value": "{font-size.20}",
+      "$type": "number"
+    },
+    "heading-sm": {
+      "$value": "{font-size.24}",
+      "$type": "number"
+    },
+    "heading-md": {
+      "$value": "{font-size.28}",
+      "$type": "number"
+    },
+    "heading-lg": {
+      "$value": "{font-size.32}",
+      "$type": "number"
+    },
+    "title": {
+      "$value": "{font-size.36}",
+      "$type": "number"
+    },
+    "display-sm": {
+      "$value": "{font-size.48}",
+      "$type": "number"
+    },
+    "display-md": {
+      "$value": "{font-size.56}",
+      "$type": "number"
+    },
+    "display-lg": {
+      "$value": "{font-size.96}",
+      "$type": "number"
+    },
+    "display-xl": {
+      "$value": "{font-size.128}",
+      "$type": "number"
+    }
+  }
+}
